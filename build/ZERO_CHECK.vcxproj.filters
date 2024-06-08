@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\frass\OneDrive\Documents\Coding\OpenCV Project\TrafficTracker\build\CMakeFiles\9e5f5a19f0e6b937fc4fc4515d73aa3a\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\enisd\OneDrive\Documents\GitHub\TrafficTracker\build\CMakeFiles\ed25648ad8bb3d9f9084e6f23bea0a44\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{5071E3BE-D439-3FA0-B0F8-682FECFE906D}</UniqueIdentifier>
+      <UniqueIdentifier>{A82B7E62-78AD-34E5-874D-4F78C80E0354}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

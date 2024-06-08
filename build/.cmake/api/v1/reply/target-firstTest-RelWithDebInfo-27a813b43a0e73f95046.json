@@ -60,7 +60,7 @@
 				{
 					"backtrace" : 3,
 					"isSystem" : true,
-					"path" : "C:/Users/frass/OneDrive/Documents/opencv/build/include"
+					"path" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build/include"
 				}
 			],
 			"language" : "CXX",
@@ -91,82 +91,82 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\frass\\OneDrive\\Documents\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
+				"fragment" : "C:\\Users\\enisd\\OneDrive\\Documents\\Coding\\Projects\\C++\\FrassProject\\opencv\\build\\x64\\vc16\\lib\\opencv_world4100.lib",
 				"role" : "libraries"
 			},
 			{

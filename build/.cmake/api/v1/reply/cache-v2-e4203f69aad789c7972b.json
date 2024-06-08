@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx86/x64/lib.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.38.33130/bin/Hostx86/x64/lib.exe"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -27,7 +27,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker/build"
+			"value" : "c:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -455,7 +455,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools"
 		},
 		{
 			"name" : "CMAKE_GENERATOR_PLATFORM",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker"
+			"value" : "C:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -519,7 +519,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx86/x64/link.exe"
+			"value" : "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.38.33130/bin/Hostx86/x64/link.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1027,7 +1027,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Users/frass/OneDrive/Documents/opencv/build][v4.10.0()]"
+			"value" : "[C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build][v4.10.0()]"
 		},
 		{
 			"name" : "OpenCV_DIR",
@@ -1039,7 +1039,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/frass/OneDrive/Documents/opencv/build"
+			"value" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build"
 		},
 		{
 			"name" : "firstTest_BINARY_DIR",
@@ -1051,7 +1051,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker/build"
+			"value" : "C:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker/build"
 		},
 		{
 			"name" : "firstTest_IS_TOP_LEVEL",
@@ -1075,7 +1075,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker"
+			"value" : "C:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker"
 		}
 	],
 	"kind" : "cache",

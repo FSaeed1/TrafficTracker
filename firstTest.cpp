@@ -27,7 +27,7 @@ double pixelToRealWorldDistance(double pixelDistance, double pixelPerMeter) {
 
 int main() {
     // Open the video file
-    VideoCapture cap("C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker/TrafficFootage.mp4");
+    VideoCapture cap("../../TrafficFootage.mp4");
     if (!cap.isOpened()) {
         cerr << "Error: Could not open video file!" << endl;
         return -1;

@@ -1,6 +1,6 @@
-^C:\USERS\FRASS\ONEDRIVE\DOCUMENTS\CODING\OPENCV PROJECT\TRAFFICTRACKER\BUILD\CMAKEFILES\9E5F5A19F0E6B937FC4FC4515D73AA3A\GENERATE.STAMP.RULE
+^C:\USERS\ENISD\ONEDRIVE\DOCUMENTS\GITHUB\TRAFFICTRACKER\BUILD\CMAKEFILES\ED25648AD8BB3D9F9084E6F23BEA0A44\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker" "-BC:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker/build/firstTest.sln"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker -BC:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker/build/firstTest.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

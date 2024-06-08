@@ -805,15 +805,15 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Users/frass/OneDrive/Documents/opencv/build/OpenCVConfig-version.cmake"
+			"path" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build/OpenCVConfig-version.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Users/frass/OneDrive/Documents/opencv/build/OpenCVConfig.cmake"
+			"path" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build/OpenCVConfig.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Users/frass/OneDrive/Documents/opencv/build/x64/vc16/lib/OpenCVConfig.cmake"
+			"path" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build/x64/vc16/lib/OpenCVConfig.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -827,22 +827,22 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Users/frass/OneDrive/Documents/opencv/build/x64/vc16/lib/OpenCVModules.cmake"
+			"path" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build/x64/vc16/lib/OpenCVModules.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Users/frass/OneDrive/Documents/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake"
+			"path" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Users/frass/OneDrive/Documents/opencv/build/x64/vc16/lib/OpenCVModules-release.cmake"
+			"path" : "C:/Users/enisd/OneDrive/Documents/Coding/Projects/C++/FrassProject/opencv/build/x64/vc16/lib/OpenCVModules-release.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker/build",
-		"source" : "C:/Users/frass/OneDrive/Documents/Coding/OpenCV Project/TrafficTracker"
+		"build" : "C:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker/build",
+		"source" : "C:/Users/enisd/OneDrive/Documents/GitHub/TrafficTracker"
 	},
 	"version" : 
 	{
