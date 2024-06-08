@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\enisd\OneDrive\Documents\GitHub\TrafficTracker\firstTest.cpp">
+    <ClCompile Include="C:\Users\frass\OneDrive\Documents\Coding\OpenCV Project\TrafficTracker\firstTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\enisd\OneDrive\Documents\GitHub\TrafficTracker\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\frass\OneDrive\Documents\Coding\OpenCV Project\TrafficTracker\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{6EEB3C28-1396-3663-B184-0CB960FBC686}</UniqueIdentifier>
+      <UniqueIdentifier>{8970EC77-2C35-3810-9FD5-97E729354063}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
